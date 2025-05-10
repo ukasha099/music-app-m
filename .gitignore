@@ -1,16 +1,16 @@
-# Node modules
+# Ignore node_modules
 node_modules/
 client/node_modules/
 server/node_modules/
 
-# Builds
+# Build output
 client/build/
 server/build/
 
-# Environment files
+# Env files
 .env
-server/.env
 client/.env
+server/.env
 
 # Logs
 *.log
